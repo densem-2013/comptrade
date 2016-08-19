@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: social-media-gallery\n"
+"POT-Creation-Date: 2016-06-30 20:40-0700\n"
+"PO-Revision-Date: 2016-06-30 20:40-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_x;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: js/FWDUGP.js:9005
+msgid "BackOut"
+msgstr ""
+
+#: js/FWDUGP.js:9007
+msgid "BackIn"
+msgstr ""
+
+#: js/FWDUGP.js:9009
+msgid "BackInOut"
+msgstr ""
+
+#: social-media-gallery-settings.php:93 social-media-gallery.php:118
+msgid "Apply Setting On Gallery"
+msgstr ""
+
+#: social-media-gallery-settings.php:100
+msgid "Grid & Effect Settings"
+msgstr ""
+
+#: social-media-gallery-settings.php:104
+msgid "Grid Layout"
+msgstr ""
+
+#: social-media-gallery-settings.php:109
+msgid "Classic"
+msgstr ""
+
+#: social-media-gallery-settings.php:110
+msgid "Infinite (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:119
+msgid "Thumbnail Styles"
+msgstr ""
+
+#: social-media-gallery-settings.php:124
+msgid "Animated Text Effect"
+msgstr ""
+
+#: social-media-gallery-settings.php:125
+msgid "Curtain Effect"
+msgstr ""
+
+#: social-media-gallery-settings.php:126
+msgid "Move Text Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:127
+msgid "Scale Text Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:128
+msgid "Scale Text Inverse (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:129
+msgid "Media Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:130
+msgid "Media 2  Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:140
+msgid "Image Thumbnail Settings"
+msgstr ""
+
+#: social-media-gallery-settings.php:144
+msgid "Disable Hover Effect"
+msgstr ""
+
+#: social-media-gallery-settings.php:149 social-media-gallery-settings.php:185
+#: social-media-gallery-settings.php:230 social-media-gallery-settings.php:305
+msgid "Yes"
+msgstr ""
+
+#: social-media-gallery-settings.php:153 social-media-gallery-settings.php:189
+#: social-media-gallery-settings.php:234 social-media-gallery-settings.php:309
+msgid "No"
+msgstr ""
+
+#: social-media-gallery-settings.php:160
+msgid "Image Hover Color"
+msgstr ""
+
+#: social-media-gallery-settings.php:165
+msgid "Sky Blue"
+msgstr ""
+
+#: social-media-gallery-settings.php:169
+msgid "Red"
+msgstr ""
+
+#: social-media-gallery-settings.php:173 social-media-gallery-settings.php:286
+msgid "Black"
+msgstr ""
+
+#: social-media-gallery-settings.php:180
+msgid "Show Icon Button"
+msgstr ""
+
+#: social-media-gallery-settings.php:196
+msgid "Icon Style"
+msgstr ""
+
+#: social-media-gallery-settings.php:201
+msgid "Light Color"
+msgstr ""
+
+#: social-media-gallery-settings.php:205
+msgid "Dark Color"
+msgstr ""
+
+#: social-media-gallery-settings.php:212
+msgid "Space Between Thumbnails"
+msgstr ""
+
+#: social-media-gallery-settings.php:215
+msgid "Space Range:"
+msgstr ""
+
+#: social-media-gallery-settings.php:216
+msgid "px"
+msgstr ""
+
+#: social-media-gallery-settings.php:225
+msgid "Thumbnail border"
+msgstr ""
+
+#: social-media-gallery-settings.php:242
+msgid "Font Settings"
+msgstr ""
+
+#: social-media-gallery-settings.php:247
+msgid "Font Style"
+msgstr ""
+
+#: social-media-gallery-settings.php:252
+msgid "Arial"
+msgstr ""
+
+#: social-media-gallery-settings.php:253
+msgid "Arial Black"
+msgstr ""
+
+#: social-media-gallery-settings.php:254
+msgid "Courier New"
+msgstr ""
+
+#: social-media-gallery-settings.php:255
+msgid "Georgia"
+msgstr ""
+
+#: social-media-gallery-settings.php:256
+msgid "Grande"
+msgstr ""
+
+#: social-media-gallery-settings.php:257
+msgid "Helvetica Neue"
+msgstr ""
+
+#: social-media-gallery-settings.php:258
+msgid "Impact"
+msgstr ""
+
+#: social-media-gallery-settings.php:259
+msgid "Lucida"
+msgstr ""
+
+#: social-media-gallery-settings.php:260
+msgid "Lucida Grande"
+msgstr ""
+
+#: social-media-gallery-settings.php:261
+msgid "OpenSansBold"
+msgstr ""
+
+#: social-media-gallery-settings.php:262
+msgid "Palatino"
+msgstr ""
+
+#: social-media-gallery-settings.php:263
+msgid "Sans"
+msgstr ""
+
+#: social-media-gallery-settings.php:264
+msgid "Sans-Serif"
+msgstr ""
+
+#: social-media-gallery-settings.php:265
+msgid "Tahoma"
+msgstr ""
+
+#: social-media-gallery-settings.php:266
+msgid "Times New Roman"
+msgstr ""
+
+#: social-media-gallery-settings.php:267
+msgid "Trebuchet"
+msgstr ""
+
+#: social-media-gallery-settings.php:268
+msgid "Verdana"
+msgstr ""
+
+#: social-media-gallery-settings.php:277
+msgid "Image hover Text Color"
+msgstr ""
+
+#: social-media-gallery-settings.php:282
+msgid "White"
+msgstr ""
+
+#: social-media-gallery-settings.php:296
+msgid "Light Box Settings"
+msgstr ""
+
+#: social-media-gallery-settings.php:300
+msgid "Show Zoom Button"
+msgstr ""
+
+#: social-media-gallery-settings.php:317 social-media-gallery-settings.php:321
+msgid "Custom CSS"
+msgstr ""
+
+#: social-media-gallery-settings.php:327
+msgid "Note"
+msgstr ""
+
+#: social-media-gallery-settings.php:327
+msgid "Please Do Not Use"
+msgstr ""
+
+#: social-media-gallery-settings.php:327
+msgid "With Custom CSS"
+msgstr ""
+
+#: social-media-gallery.php:93 social-media-gallery.php:94
+#: social-media-gallery.php:105
+msgid "Social Media Gallery"
+msgstr ""
+
+#: social-media-gallery.php:95 social-media-gallery.php:96
+msgid "Add New Gallery"
+msgstr ""
+
+#: social-media-gallery.php:97
+msgid "Edit Gallery"
+msgstr ""
+
+#: social-media-gallery.php:98
+msgid "New Gallery"
+msgstr ""
+
+#: social-media-gallery.php:99
+msgid "View Gallery"
+msgstr ""
+
+#: social-media-gallery.php:100
+msgid "Search Gallery"
+msgstr ""
+
+#: social-media-gallery.php:101 social-media-gallery.php:435
+msgid "No Gallery found"
+msgstr ""
+
+#: social-media-gallery.php:102
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: social-media-gallery.php:103
+msgid "Parent Gallery:"
+msgstr ""
+
+#: social-media-gallery.php:104
+msgid "All Galleries"
+msgstr ""
+
+#: social-media-gallery.php:117
+msgid "Add Album"
+msgstr ""
+
+#: social-media-gallery.php:119
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: social-media-gallery.php:122
+msgid "We need your reviews in order to improve our services"
+msgstr ""
+
+#: social-media-gallery.php:125
+msgid "Pro Features"
+msgstr ""
+
+#: social-media-gallery.php:150
+msgid "RATE US"
+msgstr ""
+
+#: social-media-gallery.php:158
+msgid ""
+"Support for 5 social networks from which can load and display playlists, "
+"albums, sets and more (Facebook, Flickr, Soundcloud, Pinterest, Youtube)."
+msgstr ""
+
+#: social-media-gallery.php:159
+msgid ""
+"Two grid layouts included with vertical and horizontal variation (classic "
+"and infinite)."
+msgstr ""
+
+#: social-media-gallery.php:160
+msgid "Beautiful hover effects."
+msgstr ""
+
+#: social-media-gallery.php:161
+msgid "Super easy to use for beginners."
+msgstr ""
+
+#: social-media-gallery.php:162
+msgid "Quick and easy setup."
+msgstr ""
+
+#: social-media-gallery.php:163
+msgid "100% responsive design"
+msgstr ""
+
+#: social-media-gallery.php:164
+msgid "Developer friendly."
+msgstr ""
+
+#: social-media-gallery.php:165
+msgid "Mobile optimized."
+msgstr ""
+
+#: social-media-gallery.php:166
+msgid "SEO optimized."
+msgstr ""
+
+#: social-media-gallery.php:167
+msgid "Light Box View."
+msgstr ""
+
+#: social-media-gallery.php:168
+msgid "Two Light box skins included."
+msgstr ""
+
+#: social-media-gallery.php:169
+msgid "Single or multiple categories selection."
+msgstr ""
+
+#: social-media-gallery.php:170
+msgid "Filterable categories."
+msgstr ""
+
+#: social-media-gallery.php:171
+msgid "Total count on categories."
+msgstr ""
+
+#: social-media-gallery.php:172
+msgid "Optional menu."
+msgstr ""
+
+#: social-media-gallery.php:173
+msgid "Customizable menu position with variation based on layout."
+msgstr ""
+
+#: social-media-gallery.php:174
+msgid "Optional search box."
+msgstr ""
+
+#: social-media-gallery.php:175
+msgid "Optional lazy loading with load more button or scroll."
+msgstr ""
+
+#: social-media-gallery.php:176
+msgid "Multiple thumbnails hide / show animation types."
+msgstr ""
+
+#: social-media-gallery.php:177
+msgid "Thumbnails multimedia icons."
+msgstr ""
+
+#: social-media-gallery.php:178
+msgid "Adjustable thumbnails number to display / load per set."
+msgstr ""
+
+#: social-media-gallery.php:179
+msgid "Adjustable thumbnail spacings / size and much more."
+msgstr ""
+
+#: social-media-gallery.php:180
+msgid "Adjustable thumbnail geometry and styling."
+msgstr ""
+
+#: social-media-gallery.php:181
+msgid "Social networks sharing."
+msgstr ""
+
+#: social-media-gallery.php:182
+msgid "500+ Google fonts."
+msgstr ""
+
+#: social-media-gallery.php:183
+msgid "Fully customizable Lightbox."
+msgstr ""
+
+#: social-media-gallery.php:184
+msgid "Custom CSS Option."
+msgstr ""
+
+#: social-media-gallery.php:185
+msgid "Translation ready."
+msgstr ""
+
+#: social-media-gallery.php:186
+msgid "Updates and support."
+msgstr ""
+
+#: social-media-gallery.php:187
+msgid "Extensive documentation."
+msgstr ""
+
+#: social-media-gallery.php:188
+msgid "And many more.."
+msgstr ""
+
+#: social-media-gallery.php:197
+msgid "Documention"
+msgstr ""
+
+#: social-media-gallery.php:198
+msgid "View Live Demo (Pro)"
+msgstr ""
+
+#: social-media-gallery.php:199
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: social-media-gallery.php:212
+msgid "Album Type"
+msgstr ""
+
+#: social-media-gallery.php:216
+msgid "Flickr Gallery"
+msgstr ""
+
+#: social-media-gallery.php:217
+msgid "Facebook Gallery (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery.php:218
+msgid "Pinterest Gallery (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery.php:219
+msgid "Soundcloud Gallery (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery.php:220
+msgid "Youtube Gallery (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery.php:224
+msgid "Choose Album Type."
+msgstr ""
+
+#: social-media-gallery.php:246 social-media-gallery.php:297
+msgid "Ablum Name: "
+msgstr ""
+
+#: social-media-gallery.php:250 social-media-gallery.php:301
+msgid "Album Link: "
+msgstr ""
+
+#: social-media-gallery.php:269
+msgid "Add New Album"
+msgstr ""
+
+#: social-media-gallery.php:285
+msgid "Use below shortcode in any Page/Post to publish your gallery"
+msgstr ""
+
+#: social-media-gallery.php:394 social-media-gallery.php:395
+msgid "Select Gallery to insert into post"
+msgstr ""
+
+#: social-media-gallery.php:398
+msgid "Get Gallery Shortcode"
+msgstr ""
+
+#: social-media-gallery.php:417
+msgid "Select Any Gallery To Insert Into Post"
+msgstr ""
+
+#: social-media-gallery.php:432
+msgid "Insert Gallery Shortcode"
+msgstr ""

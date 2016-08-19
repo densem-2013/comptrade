@@ -1,0 +1,246 @@
+.smgl-tips-div{
+	background-color:#1ABC9C;
+	color:white;
+	font-size:14px;
+}
+.smgl-tips-div p{
+	margin-top:10px;
+	margin-left:15px;
+	margin-bottom:20px;
+	font-size:14px;
+}
+.smgl-tips-div p strong{
+	font-size:16px !important;
+}
+.smgl-image-entry {
+	background: #fff;
+	margin-left: 10px;
+	margin-bottom:20px;
+	padding: 10px;
+	width:92%;
+	cursor:move;
+	float:left;
+	box-shadow: 0 0 6px rgba(0,0,0,.7);
+}
+
+#smgl_gallery_thumbs{
+	float:left;
+	width:100%;
+}
+
+.smgl-image-entry img{
+	width:100%;
+	max-height:240px;
+	display:block;
+	margin-bottom:10px;
+}
+
+.smgl-meta-image{
+	width:100%;
+	height:170px;
+	display:block;
+	margin-bottom:10px;
+}
+
+.smgl-meta-image:hover {
+	cursor: move;
+}
+
+.smgl-image-entry .button-primary{
+	width:100%;
+	margin-bottom:10px;
+}
+
+.smgl_label{
+	display:inline-block;
+	width:18%;
+	padding-right: 7px;
+}
+
+.smgl_label_text{
+	width:100%;
+	padding:9px;
+}
+
+.smgl-image-entry .image_gallery_remove {
+	display: block;
+	float: right;
+	height: 20px;
+	margin-right: -21px;
+	margin-top: -21px;
+	outline: 0 none;
+	text-indent: -9999px;
+	width: 20px;
+}
+
+.add_smgl_new_image{
+	text-align:center;
+	padding-top:3.8%;
+	padding-bottom:3.8%;
+	border: 5px dashed rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+	box-shadow: 0 0 0px rgba(0,0,0,.7);
+
+}
+.add_smgl_new_image:hover{
+	border: 5px dashed #1ABC9C;
+	background:#1ABC9C;
+}
+.add_smgl_new_image:hover p{
+	color:#ffffff;
+}
+.add_smgl_new_image:hover .dashicons{
+	background: none repeat scroll 0 0 #ffffff;
+	color:#1ABC9C;
+}
+.add_smgl_new_image .dashicons{
+	background: none repeat scroll 0 0 rgba(153, 153, 153, 0.1);
+	border-radius: 50%;
+	color: #999;
+	content: "?";
+	display: inline-block;
+	font: 400 74px/115px ;
+	height: 100px;
+
+	font-size:80px;
+	padding: 0;
+	line-height:110px;
+	text-align: center;
+	text-indent: -4px;
+	text-shadow: none;
+	top: 30%;
+	vertical-align: middle;
+	width: 100px;
+	z-index: 4;
+}
+
+.smgl-meta-container{
+	width:100%;
+	background:#fff;
+	display:block;
+	float:left;
+	padding:10px;
+}
+
+#append_smgl_img{
+	display:block;
+}
+.smgl-admin-inner-div1{
+	display:inline-block;
+	width: 100%;
+	padding-left:2px;
+	float: left;
+}
+
+@media (max-width:1200px) {
+	.smgl-image-entry {
+		width:95%;
+	}
+}
+@media (max-width:766px){
+	.smgl-image-entry {
+		background: #fff;
+		margin: 0 15px 15px 0;
+		padding: 10px;
+		width:95%;
+		cursor:move;
+		float:left;
+		box-shadow: 0 0 6px rgba(0,0,0,.7);
+	}
+}
+
+@media (max-width:460px){
+	.smgl-image-entry {
+		background: #fff;
+		margin: 0 15px 15px 0;
+		padding: 10px;
+		width:95%;
+		cursor:move;
+		float:left;
+		box-shadow: 0 0 6px rgba(0,0,0,.7);
+	}
+}
+
+/* Button css in gallery settings  */
+.btn-web {
+    position: relative;
+	width:130px;
+    padding: 10px 40px;
+    margin: 0px 10px 10px 0px;
+    float: none;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;  
+    
+    /* Animation */
+    transition: all 0.1s;
+    -webkit-transition: all 0.1s;
+}
+
+.button-1{
+	background-color: #1CB841;
+    border-bottom: 5px solid #106e27;
+    text-shadow: 0px -2px #106e27;
+}
+
+.button-2{
+	background-color: #3498DB;
+    border-bottom: 5px solid #2980B9;
+    text-shadow: 0px -2px #2980B9;
+}
+
+.button-3{
+	background-color: #DF7514;
+    border-bottom: 5px solid #85460c;
+    text-shadow: 0px -2px #85460c;
+}
+
+.btn-web:hover, 
+.btn-web:focus {
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-web:active {
+    transform: translate(0px,5px);
+    -webkit-transform: translate(0px,5px);
+    border-bottom: 1px solid;
+}
+
+/* Rate us */
+div.stars {
+  margin-top:10px;
+  text :center;
+  display: inline-block;
+}
+
+input.star { display: none; }
+
+label.star {
+  float: right;
+  padding: 8px;
+  font-size: 36px;
+  color: #DF7514;
+  transition: all .2s;
+}
+
+input.star:checked ~ label.star:before {
+  content: '\f005';
+  color: #FD4;
+  transition: all .25s;
+}
+
+input.star-5:checked ~ label.star:before {
+  color: #FE7;
+  text-shadow: 0 0 20px #952;
+}
+
+input.star-1:checked ~ label.star:before { color: #F62; }
+
+label.star:hover { transform: rotate(-15deg) scale(1.3); }
+
+label.star:before {
+  content: '\f006';
+  font-family: FontAwesome;
+}
